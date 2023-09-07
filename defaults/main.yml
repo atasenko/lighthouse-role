@@ -1,0 +1,3 @@
+---
+lighthouse_dir: "/var/www/html/lighthouse"
+lighthouse_nginx_config: "/etc/nginx/sites-enabled/default"
